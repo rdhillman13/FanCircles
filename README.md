@@ -3,4 +3,4 @@
 This is the FanCircles sample application for
 [*One Month Rails*](httpL//onemonthrails.com)
 
-by [Roy Hillman]
+by Roy Hillman
